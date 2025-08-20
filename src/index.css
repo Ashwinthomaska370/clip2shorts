@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  --radius: 12px;
+}
+
+/* Smooth fonts */
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+/* App gradient background */
+body {
+  min-height: 100vh;
+}
+
